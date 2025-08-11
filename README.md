@@ -75,6 +75,6 @@ The dataset includes:
 - **Raw Data** – Orders, Customers, Products.
 - **Screen Recording** – Demonstration of dashboard features.
 
-📎 **Google Drive Link**: [View Files](https://drive.google.com/)  
+📎 **Google Drive Link**: [View Files](https://drive.google.com/drive/folders/1Uc05dhWM28KTs7EaNlwXHVUzOsMIGRBN)  
 
 ---
